@@ -1,0 +1,10 @@
+{
+  "name": "@glider/usdc-paylink",
+  "version": "1.0.0",
+  "description": "Generate and parse EIP-681 / EIP-3009 USDC payment requests and links (Base, Ethereum, Optimism, Polygon). Zero dependencies.",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
